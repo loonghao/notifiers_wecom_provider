@@ -5,8 +5,7 @@
 .idea/
 
 # Vim / Notepad++ temp files
-*~
-.*/
+
 *.egg-info
 # PyInstaller output
 build/
