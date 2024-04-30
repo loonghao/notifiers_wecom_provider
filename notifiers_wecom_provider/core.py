@@ -1,10 +1,5 @@
 """WeCom provider for Notifiers."""
-
 # Import future modules
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
 # Import third-party modules
 from notifiers.core import Provider
 from notifiers.core import Response
