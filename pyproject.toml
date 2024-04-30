@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "notifiers_wecom_provider"
-version = "0.1.0"
+version = "0.0.0"
 description = "Python API for Photoshop."
 homepage = "https://github.com/loonghao/notifiers_wecom_provider"
 repository = "https://github.com/loonghao/notifiers_wecom_provider"
-documentation = ""
+documentation = "https://github.com/loonghao/notifiers_wecom_provider"
 keywords = ["notifiers", "python"]
 authors = ["longhao <hal.long@outlook.com>"]
 license = "MIT"
@@ -46,10 +46,11 @@ mkdocs = "^1.2.2"
 black = "^23.0.0"
 mkdocs-material = "^8.2.5"
 pytest-cov = "^4.0.0"
+mkdocs-gen-files = "^0.5.0"
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.1.0"
+version = "0.0.0"
 tag_format = "v$version"
 version_files = [
     "pyproject.toml:version",
