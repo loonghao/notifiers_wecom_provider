@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "notifiers_wecom_provider"
 version = "0.0.0"
-description = "Python API for Photoshop."
+description = "WeCom provider for Notifiers."
 homepage = "https://github.com/loonghao/notifiers_wecom_provider"
 repository = "https://github.com/loonghao/notifiers_wecom_provider"
 documentation = "https://github.com/loonghao/notifiers_wecom_provider"

@@ -1,6 +1,6 @@
 [run]
 branch = True
-source = photoshop
+source = notifiers_wecom_provider
 
 [report]
 exclude_lines =
