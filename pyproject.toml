@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "notifiers_wecom_provider"
-version = "0.1.0"
+version = "0.2.0"
 description = "WeCom provider for Notifiers."
 homepage = "https://github.com/loonghao/notifiers_wecom_provider"
 repository = "https://github.com/loonghao/notifiers_wecom_provider"
